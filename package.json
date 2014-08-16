@@ -1,0 +1,25 @@
+{
+  "name": "node-dav",
+  "version": "0.0.1",
+  "description": "nodejs dav client tested on box.com",
+  "main": "./lib/dav.js",
+  "dependencies": {
+    "request": "2.40.0",
+    "xmlreader": "0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/tokune/node-dav",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tokune/node-dav.git"
+  },
+  "keywords": [
+    "dav",
+    "client"
+  ],
+  "author": "tokune@gmail.com",
+  "license": "ISC"
+}
